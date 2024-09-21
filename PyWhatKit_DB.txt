@@ -1,0 +1,42 @@
+Date: 20/9/2024
+Time: 23:55
+Phone Number: +919177965854
+Message: Hello from Python!
+--------------------
+Date: 21/9/2024
+Time: 1:3
+Phone Number: +919177965854
+Message: Firoz Moxley Esta Aqui
+--------------------
+Date: 21/9/2024
+Time: 1:30
+Phone Number: +919177965854
+Image: C:/Users/pakac/OneDrive/Pictures/Screenshots/Screenshot (22).png
+Caption: 
+--------------------
+Date: 21/9/2024
+Time: 2:21
+Phone Number: +919177965854
+Image: C:/Users/pakac/OneDrive/Pictures/Screenshots/Screenshot (22).png
+Caption: 
+--------------------
+Date: 21/9/2024
+Time: 7:14
+Phone Number: +919177965854
+Message: 
+--------------------
+Date: 21/9/2024
+Time: 7:43
+Phone Number: +919177965854
+Message: 
+--------------------
+Date: 21/9/2024
+Time: 8:19
+Phone Number: +919177965854
+Message: 
+--------------------
+Date: 21/9/2024
+Time: 10:7
+Phone Number: +919177965854
+Message: YO Amigo!
+--------------------
